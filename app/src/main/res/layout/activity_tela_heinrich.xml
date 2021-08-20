@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TelaHeinrichA">
+
+    <ScrollView
+        android:id="@+id/svheinricha"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000">
+
+        <LinearLayout
+            android:id="@+id/lvheinricha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="23dp" />
+
+            <TextView
+                android:id="@+id/tvheinricha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvheinricha"
+                android:textAlignment="center"
+                android:textColor="@android:color/white"
+                android:textSize="25sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="23dp" />
+
+            <ImageView
+                android:id="@+id/imgheinricha"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:srcCompat="@drawable/heinricha" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="23dp" />
+
+            <TextView
+                android:id="@+id/txtheinricha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/txtheinricha"
+                android:textAlignment="center"
+                android:textColor="@android:color/white"
+                android:textSize="15sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="23dp" />
+
+            <TextView
+                android:id="@+id/tvfrase5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvfrase5"
+                android:textAlignment="center"
+                android:textColor="@android:color/white"
+                android:textStyle="italic" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

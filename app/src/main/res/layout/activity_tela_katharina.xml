@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TelaKatharinaA">
+
+    <ScrollView
+        android:id="@+id/svkatharinaa"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000">
+
+        <LinearLayout
+            android:id="@+id/lvkatharinaa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="23dp" />
+
+            <TextView
+                android:id="@+id/tvkatharinaa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvkatharinaa"
+                android:textAlignment="center"
+                android:textColor="@android:color/white"
+                android:textSize="25sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="23dp" />
+
+            <ImageView
+                android:id="@+id/imgkatharinaa"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/katharinaa" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="23dp" />
+
+            <TextView
+                android:id="@+id/txtkatharinaa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/txtkatharinaa"
+                android:textAlignment="center"
+                android:textColor="@android:color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

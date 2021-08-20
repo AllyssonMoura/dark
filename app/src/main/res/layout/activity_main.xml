@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:id="@+id/svinicial"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000">
+
+        <LinearLayout
+            android:id="@+id/lvinicial"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="37dp" />
+
+            <ImageView
+                android:id="@+id/imglogo"
+                android:layout_width="match_parent"
+                android:layout_height="296dp"
+                app:srcCompat="@drawable/tela1" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="34dp" />
+
+            <Button
+                android:id="@+id/btlogin"
+                android:layout_width="240dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border_button"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/btlogin"
+                android:textColor="@android:color/background_light"
+                android:textStyle="bold"
+                tools:text="@string/btlogin" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="15dp" />
+
+            <Button
+                android:id="@+id/btcadastrar"
+                android:layout_width="240dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border_button"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/btcadastrar"
+                android:textColor="@android:color/background_light"
+                android:textStyle="bold"
+                tools:text="@string/btcadastrar" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="104dp" />
+
+            <TextView
+                android:id="@+id/tvfrase"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvfrase"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_light"
+                android:textSize="19sp" />
+
+            <TextView
+                android:id="@+id/tvfrase7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvfrase7"
+                android:textAlignment="center"
+                android:textColor="@android:color/white"
+                android:textSize="19sp" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

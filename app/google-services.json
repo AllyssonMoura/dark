@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413700172091",
+    "firebase_url": "https://cadastrotelas-e9ccf.firebaseio.com",
+    "project_id": "cadastrotelas-e9ccf",
+    "storage_bucket": "cadastrotelas-e9ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413700172091:android:c3eca81d13b4126b6faf1e",
+        "android_client_info": {
+          "package_name": "com.allyssonmoura.cadastrotelas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413700172091-qoa5a5sdh4d1e4carappauechqijrkqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allyssonmoura.cadastrotelas",
+            "certificate_hash": "5961ad81fea5562545a034d60610ec8f3d8e2109"
+          }
+        },
+        {
+          "client_id": "413700172091-tmnhoeqr8tcg6s6hb7n133r1g9gh2ml7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfr4IcEJQSkffpzvbf3-1IOSVlnfWQcN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413700172091-tmnhoeqr8tcg6s6hb7n133r1g9gh2ml7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

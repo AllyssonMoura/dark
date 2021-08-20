@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TelaResultado">
+
+    <ScrollView
+        android:id="@+id/svresposta"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000">
+
+        <LinearLayout
+            android:id="@+id/lvresposta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="30dp" />
+
+            <TextView
+                android:id="@+id/tvdados"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvdados"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_light"
+                android:textSize="27sp" />
+
+            <ImageView
+                android:id="@+id/imgtriquetra"
+                android:layout_width="match_parent"
+                android:layout_height="164dp"
+                app:srcCompat="@drawable/triquetra" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="14dp" />
+
+            <TextView
+                android:id="@+id/tvrespostanome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvrespostanome"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/tvrespostaidade"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvrespostaidade"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/tvrespostaemail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvrespostaemail"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/tvrespostasenha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvrespostasenha"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/tvrespostaconfisenha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvrespostaconfisenha"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/tvrespostagenero"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvrespostagenero"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/tvrespostapersonagens"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvrespostapersonagens"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/tvrespostaparadoxos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvrespostaparadoxos"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/tvrespostalinha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvrespostalinha"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/tvrespostaarvore"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvrespostaarvore"
+                android:textColor="@android:color/background_light"
+                android:textSize="18sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="27dp" />
+
+            <TextView
+                android:id="@+id/tvfrase3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvfrase3"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_light"
+                android:textStyle="italic" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="34dp" />
+
+            <Button
+                android:id="@+id/btcerto"
+                android:layout_width="325dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border_button"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/btcerto"
+                android:textColor="@android:color/background_light"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                tools:text="@string/btcerto" />
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TelaCadastro">
+
+    <ScrollView
+        android:id="@+id/svcadastro"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000">
+
+        <LinearLayout
+            android:id="@+id/lvcadastro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="30dp" />
+
+            <TextView
+                android:id="@+id/tvtitulo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvtitulo"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_light"
+                android:textSize="27sp" />
+
+            <ImageView
+                android:id="@+id/imgtriquetra"
+                android:layout_width="match_parent"
+                android:layout_height="164dp"
+                app:srcCompat="@drawable/triquetra" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="14dp" />
+
+            <EditText
+                android:id="@+id/etnome"
+                android:layout_width="400dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border_text"
+                android:ems="10"
+                android:fontFamily="sans-serif-smallcaps"
+                android:hint="@string/etnome"
+                android:inputType="textPersonName"
+                android:textColor="@android:color/background_light"
+                android:textColorHint="@android:color/background_light" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <EditText
+                android:id="@+id/etidade"
+                android:layout_width="400dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border_text"
+                android:ems="10"
+                android:fontFamily="sans-serif-smallcaps"
+                android:hint="@string/etidade"
+                android:inputType="number"
+                android:textColor="@android:color/background_light"
+                android:textColorHint="@android:color/background_light" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <EditText
+                android:id="@+id/etemail"
+                android:layout_width="400dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border_text"
+                android:ems="10"
+                android:fontFamily="sans-serif-smallcaps"
+                android:hint="@string/etemail"
+                android:inputType="textEmailAddress"
+                android:textColor="@android:color/background_light"
+                android:textColorHint="@android:color/background_light" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <EditText
+                android:id="@+id/etsenha"
+                android:layout_width="400dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border_text"
+                android:ems="10"
+                android:fontFamily="sans-serif-smallcaps"
+                android:hint="@string/etsenha"
+                android:inputType="textPassword"
+                android:textColor="@android:color/background_light"
+                android:textColorHint="@android:color/background_light" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <EditText
+                android:id="@+id/etconfisenha"
+                android:layout_width="400dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border_text"
+                android:ems="10"
+                android:fontFamily="sans-serif-smallcaps"
+                android:hint="@string/etconfisenha"
+                android:inputType="textPersonName"
+                android:textColor="@android:color/background_light"
+                android:textColorHint="@android:color/background_light" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <RadioGroup
+                android:id="@+id/rggenero"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:id="@+id/rbmasculino"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1"
+                    android:buttonTint="@android:color/background_light"
+                    android:checked="true"
+                    android:text="@string/rbmasculino"
+                    android:textColor="@android:color/background_light" />
+
+                <RadioButton
+                    android:id="@+id/rbfeminino"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1"
+                    android:buttonTint="@android:color/background_light"
+                    android:text="@string/rbfeminino"
+                    android:textColor="@android:color/background_light" />
+
+            </RadioGroup>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="39dp" />
+
+            <TextView
+                android:id="@+id/tvescolha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvescolha"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_light"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <CheckBox
+                android:id="@+id/cbpersonagens"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:buttonTint="@android:color/background_light"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/cbpersonagens"
+                android:textColor="@android:color/background_light" />
+
+            <CheckBox
+                android:id="@+id/cbparadoxos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:buttonTint="@android:color/background_light"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/cbparadoxos"
+                android:textColor="@android:color/background_light" />
+
+            <CheckBox
+                android:id="@+id/cblinha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:buttonTint="@android:color/background_light"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/cblinha"
+                android:textColor="@android:color/background_light" />
+
+            <CheckBox
+                android:id="@+id/cbarvore"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:buttonTint="@android:color/background_light"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/cbarvore"
+                android:textColor="@android:color/background_light" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="28dp" />
+
+            <TextView
+                android:id="@+id/tvfrase2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/tvfrase2"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_light"
+                android:textStyle="italic" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="26dp" />
+
+            <LinearLayout
+                android:id="@+id/lhacoes"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btfinalizar"
+                    android:layout_width="50dp"
+                    android:layout_height="30dp"
+                    android:layout_marginStart="30dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_button"
+                    android:fontFamily="sans-serif-smallcaps"
+                    android:text="@string/btfinalizar"
+                    android:textColor="@android:color/background_light"
+                    android:textStyle="bold" />
+
+                <Space
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <Button
+                    android:id="@+id/btlimpar"
+                    android:layout_width="50dp"
+                    android:layout_height="30dp"
+                    android:layout_marginEnd="30dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_button"
+                    android:fontFamily="sans-serif-smallcaps"
+                    android:text="@string/btlimpar"
+                    android:textColor="@android:color/background_light"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <Button
+                android:id="@+id/btdados"
+                android:layout_width="250dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border_button"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="@string/btdados"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

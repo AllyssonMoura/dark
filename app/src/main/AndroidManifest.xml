@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.allyssonmoura.cadastrotelas">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".TelaTorbenOri"></activity>
+        <activity android:name=".TelaSonjaOri" />
+        <activity android:name=".TelaReginaOri" />
+        <activity android:name=".TelaPeterOri" />
+        <activity android:name=".TelaMarekOri" />
+        <activity android:name=".TelaKatharinaOri" />
+        <activity android:name=".TelaHannahOri" />
+        <activity android:name=".TelaHGOri" />
+        <activity android:name=".TelaCharlotteOri" />
+        <activity android:name=".TelaBenjaminBernadetteOri" />
+        <activity android:name=".TelaEritLux" />
+        <activity android:name=".TelaSicMundus" />
+        <activity android:name=".TelaUlrichB" />
+        <activity android:name=".TelaTorbenB" />
+        <activity android:name=".TelaReginaB" />
+        <activity android:name=".TelaPeterB" />
+        <activity android:name=".TelaMikkelB" />
+        <activity android:name=".TelaMarthaEva" />
+        <activity android:name=".TelaMagnusB" />
+        <activity android:name=".TelaMadsB" />
+        <activity android:name=".TelaKatharinaB" />
+        <activity android:name=".TelaHelgeB" />
+        <activity android:name=".TelaHannoNoahB" />
+        <activity android:name=".TelaHannahB" />
+        <activity android:name=".TelaFranziskaB" />
+        <activity android:name=".TelaEgonB" />
+        <activity android:name=".TelaElisabethB" />
+        <activity android:name=".TelaClaudiaB" />
+        <activity android:name=".TelaCharlotteB" />
+        <activity android:name=".TelaBorisAleksanderB" />
+        <activity android:name=".TelaBenjaminB" />
+        <activity android:name=".TelaBartoszB" />
+        <activity android:name=".TelaTorbenA" />
+        <activity android:name=".TelaSiljaA" />
+        <activity android:name=".TelaSebastianA" />
+        <activity android:name=".TelaPeterA" />
+        <activity android:name=".TelaMarthaA" />
+        <activity android:name=".TelaMagnusA" />
+        <activity android:name=".TelaMadsA" />
+        <activity android:name=".TelaHermannA" />
+        <activity android:name=".TelaHeleneA" />
+        <activity android:name=".TelaHeinrichA" />
+        <activity android:name=".TelaHGA" />
+        <activity android:name=".TelaGustavA" />
+        <activity android:name=".TelaGretaA" />
+        <activity android:name=".TelaFranziskaA" />
+        <activity android:name=".TelaDorisA" />
+        <activity android:name=".TelaDesconhecidoInfinito" />
+        <activity android:name=".TelaDanielA" />
+        <activity android:name=".TelaClausenA" />
+        <activity android:name=".TelaBerndA" />
+        <activity android:name=".TelaBenjaminBernadetteA" />
+        <activity android:name=".TelaBartoszA" />
+        <activity android:name=".TelaAgnesA" />
+        <activity android:name=".TelaTronteA" />
+        <activity android:name=".TelaKatharinaA" />
+        <activity android:name=".TelaJanaA" />
+        <activity android:name=".TelaInesA" />
+        <activity android:name=".TelaHelgeA" />
+        <activity android:name=".TelaHannahA" />
+        <activity android:name=".TelaElisabethA" />
+        <activity android:name=".TelaEgonA" />
+        <activity android:name=".TelaClaudiaA" />
+        <activity android:name=".TelaParadoxos" />
+        <activity android:name=".TelaCharlotteA" />
+        <activity android:name=".TelaBorisAleksanderA" />
+        <activity android:name=".TelaUlrichA" />
+        <activity android:name=".TelaReginaA" />
+        <activity android:name=".TelaHannoNoahA" />
+        <activity android:name=".TelaJonasAdam" />
+        <activity android:name=".TelaMikkelMichaelA" />
+        <activity android:name=".TelaArvore" />
+        <activity android:name=".TelaApresentacao" />
+        <activity android:name=".TelaLogin" />
+        <activity android:name=".TelaPersonagens" />
+        <activity android:name=".TelaResultado" />
+        <activity android:name=".TelaCadastro" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

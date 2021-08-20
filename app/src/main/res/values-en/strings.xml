@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dark</string>
+    <string name="btlogin">Login</string>
+    <string name="btcadastrar">Register</string>
+    <string name="etnome">Name:</string>
+    <string name="etemail">E-mail:</string>
+    <string name="etsenha">Password:</string>
+    <string name="etconfisenha">Confirm Password:</string>
+    <string name="etidade">Age:</string>
+    <string name="rbmasculino">Male</string>
+    <string name="rbfeminino">Female</string>
+    <string name="tvescolha">What Are Your Interests?</string>
+    <string name="cbpersonagens">Characters</string>
+    <string name="cbparadoxos">Paradoxes</string>
+    <string name="cblinha">Timeline</string>
+    <string name="cbarvore">Family Tree</string>
+    <string name="tvtitulo">Fill In to Register</string>
+    <string name="btfinalizar">Register</string>
+    <string name="btlimpar">Clean</string>
+    <string name="tvdados">Your Data</string>
+    <string name="tvfrase">Sic Mundus Creatus Est</string>
+    <string name="tvfrase7">Erit Lux</string>
+    <string name="tvfrase2">“The beginning is the end. And the end is the beginning. Everything is connected. Future, past and present.”</string>
+    <string name="tvfrase3">“The difference between past, present and future is only a persistent illusion.” — Einstein, Albert</string>
+    <string name="btcerto">Everything is alright? Click here and login</string>
+    <string name="tvlogin">Enter Your Login Details</string>
+    <string name="etemaillog">E-mail:</string>
+    <string name="etsenhalog">Password:</string>
+    <string name="btlog">Login</string>
+    <string name="tvfrase4">“What we know is a drop. What we ignore, an ocean” - Isaac Newton</string>
+    <string name="tvpersonagens">Characters</string>
+    <string name="tva">Adams World</string>
+    <string name="tvb">Evas World</string>
+    <string name="tvori">Original World</string>
+    <string name="menuarvore">Family Tree</string>
+    <string name="menuinicial">Home</string>
+    <string name="menuparadoxos">Paradoxes</string>
+    <string name="menupersonagens">Characters</string>
+    <string name="tvarvore">Family Tree</string>
+    <string name="tvapresentacao">The series takes place in the fictional city of Winden, Germany, which is impacted by the disappearance of a child, who exposes the hidden secrets and connections between four local families, as they slowly unravel a sinister time travel conspiracy spanning several generations. Throughout the series, Dark explores the existential implications of time and its effects on human nature.
+        In this application you can see, in the Paradoxes section a little of the complex paradoxes of the series, such as: Charlotte being the daughter of her own daughter and how Jonas is the great-grandfather of his own grandfather. In the Characters section, you can learn a little about each of them, of the three worlds of the series. In the Family Tree section, you can see how the four families of Winden intertwine and understand their confused connection in the midst of so many time travels.</string>
+    <string name="btstop">Stop music</string>
+    <string name="tvparadoxos">Paradoxes</string>
+    <string name="tvparadoxo1">Jonas Being His Own Grandfathers Great-Grandfather</string>
+    <string name="tvparadoxo2">Charlotte Being Her Own Daughters Daughter</string>
+    <string name="tvfrase5">“The dead are never truly dead. Maybe they are not here, now. But everything that once lived lives on forever in the eternity of time.” ― Heinrich Tannhaus</string>
+    <string name="tvfrase6">“Be on your guard! Be alert! You do not know when that time will come.” - Hermann Albers</string>
+    <string name="btdados">See Your Data</string>
+    <string name="btsic">Sic Mundus Creatus Est</string>
+    <string name="bterit">Erit Lux</string>
+    <string name="tvsic">Sic Mundus Creatus Est</string>
+    <string name="txtsic">Sic Mundus was founded in the 19th century by Heinrich Tannhaus, who wanted to find a way to bring his dead wife, Charlotte, back to life.
+        In 1888, Heinrich son, Gustav, was the only remaining member until Jonas (adult), Franziska Doppler, Magnus Nielsen and Bartosz Tiedemann appeared, having traveled back in time exactly when the apocalypse happened in 2020.
+        In 1921, Adam became the leader and his followers work on excavating the passage of time travel in the caves of Winden.
+        However, in 1987, Sic Mundus had abandoned his underground headquarters and the Unknown/Infinite trio invaded and stole the time machines plans before setting fire to the site.
+        In 2052, Sic Mundus still exists and post-apocalyptic inhabitants of Winden led by Elisabeth Doppler worship society, believing that the group is their salvation and will take them to paradise.
+        In 2053, Adam sends his followers once again through time and space so that everything happens as it should in the hope of untying the knot.</string>
+    <string name="txtsic2">Members: Adam (leader), Agnes Nielsen, Bartosz Tiedemann, Charlotte Doppler, Claudia Tiedemann, Elisabeth Doppler, Franziska Doppler, Gustav Tannhaus, Hanno Tauber/Noah, Heinrich Tannhaus (founder), Leopold Tannhaus, Magnus Nielsen and Silja Tiedemann.</string>
+    <string name="tverit">Erit Lux</string>
+    <string name="txterit">Erit Lux is a secret society of time travelers in Winden in the Evas world, led by Eva. They are the counterpart of Sic Mundus in the Adams world and believe they are in the light, while Sic Mundus is in the shadows.
+        While Adam tries to end both worlds, Eva wants to preserve the time loop.
+        On the day of the apocalypse November 8, 2019 in Evas World, Eva sends the members of Erit Lux on their missions to sustain the knot that gave them all life.</string>
+    <string name="txterit2">Members: Bartosz Tiedemann (adult), Bartosz Tiedemann (young), Claudia Tiedemann (Adams world infiltrator), Claudia Tiedemann (adult), Egon Tiedemann (elderly), Eva (founder and leader), Martha Nielsen (adult), Martha Nielsen (young), Noah (adult), Noah (young) and Unknown/Infinite (trio).</string>
+
+    <string name="tvagnesa">Agnes Nielsen</string>
+    <string name="tvbartosz">Bartosz Tiedemann</string>
+    <string name="tvbernadettebenjamina">Benjamin/Bernadette Wöller</string>
+    <string name="tvbernda">Bernd Doppler</string>
+    <string name="tvborisaleksandera">Boris Niewald/Aleksander Köhler - Tiedemann</string>
+    <string name="tvcharlottea">Charlotte Doppler</string>
+    <string name="tvclaudiaa">Claudia Tiedemann</string>
+    <string name="tvclausena">Clausen Köhler</string>
+    <string name="tvdaniela">Daniel Kahnwald</string>
+    <string name="tvdesconhecidoinfinito">Unknown/Infinite</string>
+    <string name="tvdorisa">Doris Tiedemann</string>
+    <string name="tvegona">Egon Tiedemann</string>
+    <string name="tvelisabetha">Elisabeth Doppler</string>
+    <string name="tvfranziskaa">Franziska Doppler</string>
+    <string name="tvgretaa">Greta Doppler</string>
+    <string name="tvgustava">Gustav Tannhaus</string>
+    <string name="tvhga">H. G. Tannhaus</string>
+    <string name="tvhannaha">Hannah Kahnwald</string>
+    <string name="tvhannonoaha">Hanno Tauber/Noah</string>
+    <string name="tvheinricha">Heinrich Tannhaus</string>
+    <string name="tvhelenea">Helene Albers</string>
+    <string name="tvhelgea">Helge Doppler</string>
+    <string name="tvhermanna">Hermann Albers</string>
+    <string name="tvinesa">Ines Kahnwald</string>
+    <string name="tvjanaa">Jana Nielsen</string>
+    <string name="tvjonasadam">Jonas Kahnwald/Adam</string>
+    <string name="tvkatharinaa">Katharina Nielsen</string>
+    <string name="tvmadsa">Mads Nielsen</string>
+    <string name="tvmagnusa">Magnus Nielsen</string>
+    <string name="tvmarthaa">Martha Nielsen</string>
+    <string name="tvmikkelmichaela">Mikkel Nielsen/Michael Kahnwald</string>
+    <string name="tvpetera">Peter Doppler</string>
+    <string name="tvreginaa">Regina Tiedemann</string>
+    <string name="tvsebastiana">Sebastian Krüger</string>
+    <string name="tvsiljaa">Silja Tiedemann</string>
+    <string name="tvtorbena">Torben Wöller</string>
+    <string name="tvtrontea">Tronte Nielsen</string>
+    <string name="tvulricha">Ulrich Nielsen</string>
+    <string name="txtagnesa">Agnes is the daughter of Silja and Bartosz, mother of Tronte Nielsen along with the Unknown/Infinite. She moved to Winden with her son in 1953, becoming friends with her landlady Doris Tiedemann, with whom she eventually developed a romantic relationship.
+        In the second season, we find out that Agnes is the sister of Hanno Tauber, who has come to identify himself as "Noah" since he started working for the mysterious Adam. She is also part of the Sic Mundus group of time travelers, but was exiled from the team in 1953, for reasons not yet revealed.
+        After handing the elderly version of Claudia to Noah, she returns to Adams graces and returns to the group in 1921.</string>
+    <string name="txtbartosz">Bartosz is the son of Aleksander and Regina and has children with Silja, Hanno (Noah) and Agnes. He is Jonass best friend and also likes Martha. They should get to date, but Martha ends up cheating on him with Jonas.
+        Before that, Bartosz had met Noah, who told several things that would happen in the future, including about the betrayal. Bartosz ends up working for Noah, but is discovered by the other young men.
+        When Jonas saves adult Bartosz, Magnus and Franziska from the apocalypse, he ends up in prison in 1888 following Jonas and, consequently, Adam. Bartosz ends up being killed by his son, Noah.</string>
+    <string name="txtbernadettebenjamina">Bernadette is Torben Wöllers sister.
+        She is a trans woman and sex worker, she served clients in a roadside trailer, having an affair with Peter Doppler. In the second season, Franziska Doppler supplies hormones for Bernadettes hormone replacement therapy, as her father, who used to supply them, had stopped visiting her.</string>
+    <string name="txtbernda">Bernd is the husband of Greta, Helges father and owner of the plant. It is he who builds it, in 1953. In 1986, he is one of those responsible for naming Claudia as the new director. Bernd knows about the radioactive material and the God Particle. He tells Claudia everything and asks that, while he is alive, this should not be divulged to avoid burning his familys name.
+        Bernd ends up being killed by the Unknown/Infinite.</string>
+    <string name="txtborisaleksandera">His first appearance in the city occurs in 1986, in a scene in which Regina is being bullied. He defends her and the two engage in dating.
+        Afterwards, Claudia hires him to work at the plant - he is responsible for welding the passage that leads to the radioactive gallons. Note that Aleksander uses his wifes surname; his real name, which only Hannah knows (she saw him hiding the documents in 1986) is Boris Niewald.
+        We do not know his secret, but it is understood that Aleksander is involved in a murder. Remember that Aleksander (or Boris) arrived in Winden with a gun. In addition, in the second season, the new police officer responsible for the missing children case, Clausen Köhler, suspects that Boris stole the identity of his brother, the real Aleksander, after a crime in the city of Marburg.
+        In 2019, Aleksander is married to Regina and is himself the director of the nuclear plant.
+        Aleksander ends up dying in the explosion of the nuclear plant, which ends up destroying Winden and starting the apocalypse.</string>
+    <string name="txtcharlottea">In the first season, we met Charlotte as the city police officer, who works alongside Ulrich Nielsen. Married to Peter Doppler, she is Helges daughter-in-law, who continues to try to escape from the institution where she is hospitalized to fix everything she did in 1986.
+        Charlotte is the mother of Franziska and Elisabeth. Without knowing the true identity of her parents, something she always looked for, she was adopted as a baby by H.G. Tannhaus.
+        Darks second season revealed that Charlottes parents are Noah, the mysterious priest behind the disappearances in the city, and Elisabeth, Charlottes own daughter. In the future, Elisabeth became pregnant in a relationship with Noah. After birth, the child was taken to the past, where he grew up.
+        At the end of the second season, Charlotte realizes that the reopening of nuclear waste buried by Aleksander is what will provoke the apocalypse. She runs to the scene to try to stop it, but does not arrive in time. At the "same time" in 2053, Elisabeth turns on the machine, which Magnus and Franziska also do in 1921. When the dark matter is activated in 2020, a portal is created that connects Charlotte to Elisabeth (adult) in 2053.</string>
+    <string name="txtclaudiaa">Claudia is the daughter of Doris and Egon Tiedmann and the mother of Regina; Claudia has heterochromia. She becomes the first woman to manage the nuclear plant in Winden and has an affair with Tronte Nielsen. Her dog disappears in 1953, reappearing in the cave in 1986, while Cláudia investigated radioactive material. As she investigates these strange events, she discovers more and more of time travel.
+        Claudia also becomes a traveler, but she is on the opposite side of Adam and the Sic Mundus. At times, she is called the White Devil. She is like a time travel elder, responsible for passing on knowledge to others, especially to Jonas.
+        In 2019, already elderly, she delivers the construction plans for a mechanism that could close the wormhole of the cave. In 1954, after guiding her younger version and Jonas on the right path to a new time cycle, Claudia (elderly) is betrayed by Agnes, who hands her over to Noah. Claudia is killed by Noah, under the influence of Adam.</string>
+    <string name="txtclausena">Clausen is a meticulous investigator who arrives in Winden to assist in the investigation of missing people in the city, he has always been suspicious between the connection of the plant to the caves.
+        He is trying to find his brothers murderer, Aleksander Köhler, in Marburg in 1986 - just before Aleksanders arrival in the city. An anonymous letter sent a few months ago warned him that he would find answers to his brothers case in Winden.
+        Clausen suspects Aleksanders anxiety about changing his name, as well as his payments to Hannah, despite the interruption of his massage therapy sessions. He has information from the civil registry in Marburg that there was only one Aleksander Köhler in Marburg - and not for the man who calls himself Aleksander Tiedemann, who is a few inches taller. He arrested Aleksander on charges of identity theft, swearing even if he could not prove that Aleksander is the killer, he will at least discover the secrets he is hiding at the plant.
+        Clausen arrests Aleksander and leads the search for the plant himself. He insists on inspecting the old spent fuel chamber, wearing an anti-radiation suit himself, and then orders the concrete that closes the old pool to be torn apart, revealing the yellow barrels of nuclear waste that were hidden there. Ignoring Charlottes call to stop, he orders the drum to be opened, contributing to the ensuing apocalypse. He dies at the event.</string>
+    <string name="txtdaniela">Daniel was born in 1915, he is the father of Ines. He spent his entire life in Winden and became the citys chief of police.
+        Daniel was with a group, which included Egon Tiedemann, when they discovered two disfigured bodies (Erik Obendorf and Yasin Friese of 2019) - dressed in a strange way, as if in costume - at the construction site of the Winden nuclear power plant.
+        He and Egon turn around and notice a boy at the top of the hill watching the scene, until he rides off.
+        He retired and probably died of old age. It is not known if he lived long enough to meet his adopted grandson, Michael Kahnwald.</string>
+    <string name="txtdesconhecidoinfinito">The last season of Dark also introduced us to a sinister character, who was always accompanied by two other versions of himself, with children, young and old always present; he has cleft lip. Later on, it is revealed that Unknown/Infinite is actually the son of Jonas and Martha from Evas world.
+        Upon arriving at the headquarters of Sic Mundus Creatus Est in 1987, the Unknown/Infinite soon realizes that it has been abandoned for many years. He takes the schematics from the portable time machine and sets the room on fire.
+        Unknown/Infinite kills Bernd Doppler in 2019, invades the plant in search of Claudia (adult) in 2019 and ends up killing his secretary and killing Gustav Tannhaus in 1888.
+        Unknown/Infinite works for Eva (Martha from Evas world) and takes some objects from Adams world to her, at Erit Lux headquarters, such as: a diagram of the nuclear power plants volume control system, the book "Ariadne" by H. G. Tannhaus and a clock pocket engraved with the words "For Charlotte".
+        Because the Unknown/Infinite is the only person in common between the two worlds - that of Jonas and that of Martha - Adam believed that he could be the origin of this entire cycle of time travel. The Unknown/Infinite, even, ends up marrying Agnes and being the father of Tronte Nielsen, who is Ulrichs father, who is the father of Magnus, Martha and Mikkel, with the latter being the father of Jonas, who is the father of the Unknown/Infinite itself, thus closing their genealogy is a perfect cycle.
+        In an attempt to destroy the origin, Adam kidnaps Martha B and kills her (or so Adam thinks) still pregnant with the explosion of the energy union of the two worlds, with the intention of really annihilating the baby in her womb, fruit of both universes. However, the Unknown/Infinite was not the origin.</string>
+    <string name="txtdorisa">Doris is Egons wife and Claudias mother. Still in 1953, she begins to have an affair with Agnes Nielsen when she rents a room in her home.
+        In June 1954, Agnes disappears from Winden. Doris tries to get Egon to be more involved in the investigation, but he only has a head for his affair with Hannah.
+        Doris meets the Unknown/Infinite in the church and he tells her about her husbands betrayal and the same day she tells Egon that she wants to part.</string>
+    <string name="txtegona">Egon is the father of Claudia and Silja and husband of Doris. He is a police officer who investigates the disappearance of Helge Doppler (child) in 1953, and eventually arrests Ulrich Nielsen (adult) when he travels to the past and is responsible for the assault on young Helge. Still in 1953 he has an affair with Hannah Kahnwald, who ends up having Silja as his daughter.
+        As early as 1986, Egon was investigating Ulrich convinced that he was responsible for the disappearance of his brother Mads. He ends up arresting the boy after Hannahs complaint that he had raped Katharina.
+        When Egon starts to connect time travel points - after remembering Ulrichs arrest and talking to him at the psychiatric clinic - Claudia causes an accident at home and he accidentally dies.</string>
+    <string name="txtelisabetha">Elisabeth, a hearing impaired child, is the youngest daughter of Charlotte and Peter Doppler. She is friends with Yasin, who disappears in 2019. One day, while walking through the rain, Elisabeth meets the mysterious Noah, he finds her and delivers a wristwatch engraved with the phrase "For Charlotte" claiming to be from his mother. Later, she finds in the things of her great-grandfather, H. G. Tannhaus, the photo of the Sic Mundus and recognizes Noah, showing it to her parents, Peter and Charlotte.
+        The girl is one of the survivors of the 2020 apocalypse and, in 2053, appears trying to keep everyone away from the “Particle of God”.
+        When Jonas reaches 2053, he learns that Elisabeth has become the leader of the survivors of the apocalypse. The second season brought the shocking revelation that Elisabeth is the mother of her own mother. In a temporal paradox, Elisabeth had Charlotte, who ended up being sent back in time. The girl was adopted by H.G. Tannhaus and, growing up, had two daughters: Franziska and Elisabeth herself, who in the future would be her mother. Charlottes father is Noah.</string>
+    <string name="txtfranziskaa">Franziska is the eldest daughter of Charlotte and Peter Doppler, Elisabeths sister. His grandfather is Helge Doppler and his great grandparents are Greta and Bernd Doppler. During the first season, we see Franziska start a relationship with Magnus Nielsen, while the two share the pains of Mikkels disappearance.
+        Together with Magnus, Martha and Elisabeth, she finds Bartosz in the caves. Bartosz is carrying a strange device that he claims is a time machine. To prove this, Bartosz and the group travel to 1987.
+        After Jonas (adult) saved her, Magnus and Bartosz from the apocalypse she ends up following him, consequently, Adam. In the second season, in the same scene where we see Magnus (adult) working for Adam, in 1921, we see Franziska (adult) at his side.
+        Adam sets an important mission for her and Magnus: to find Martha in Evas world and to convince her to join them.</string>
+    <string name="txtgretaa">Bernds wife, Greta looks like an extremely strict woman with her son, Helge. After Helges disappearance, Greta goes to the church to seek solace from Father Noah, confessing that she prayed that Helge would be taken away because she was not sure if he was her husbands son.
+        After Helge was missing for 6 months, he reappears with his left ear badly damaged and Noah ends up going to the Doppler home to help with Helges recovery, as he refused to talk to anyone but Noah.</string>
+    <string name="txtgustav">Gustav Tanhnhaus is a man who was born blind. When he was a child, his father, Heinrich Tannhaus, told him the story of his mothers favorite play, "Ariadne". Since then he has taken a playbook for life. Gustav is an ancestor of H. G. Tannhaus.
+        Like his father, Gustav dedicated his life to the secret society Sic Mundus Creatus Est. In 1888, Tannhaus is the last living member of the society, when Jonas (adult) appears in his factory with Magnus, Franziska and Bartosz and begins to build a machine from the time.
+        When Martha from Evas world appears at her factory, Gustav goes to the big city to share his news with the world. On the way, his carriage is stopped by Unknown/Infinite who knows Gustavs plans, but ca not let that happen.
+        Gustav ends up being killed by Unknown/Infinite.</string>
+    <string name="txthga">H. G. Tannhaus is the grandfather of Charlotte the watchmaker of Winden.
+        An Ulrich Nielsen from 2019 visits Tannhaus at his jewelry store in 1953, he shows Tannhaus a book that he wrote himself, but he says he never heard of that book. Ulrich ends up leaving his cell phone at the workshop.
+        Still in 1953, Claudia (elderly) arrives at the workshop. She gives him projects for him to build a time machine. Tannhaus takes decades to complete the project. When she goes to the workshop again, she gives him a book that he will write later: A Time Travel.
+        In 1971, two women Tannhaus does not know (adult Charlotte and adult Elisabeth) appear at the workshop and deliver a baby to him. That same night his son, his daughter-in-law and granddaughter die in a car accident, so he raises the baby as his granddaughter and named Charlotte.
+        After decades of work, in 1986, Tannhaus completed the time machine, according to Claudias (elderly) projects, but it doe not work; theres still something missing.
+        So Tannhaus receives another visitor from the future, this time Jonas (adult) with an older version of the same device and Jonas asks him to fix it. When Jonas returns to pick up the device, he brings Cesium-137, a radioactive isotope that supplies the machine. Only then did Tannhaus understand how the machine works.
+        In 1987, Claudia (adult) visits the workshop to learn about the time machine she dug up from her backyard and Tannhaus has a confession to make: He did not write the book "A Time Travel", he simply copied every word in the book that she received from Claudia (elderly), creating yet another paradox.</string>
+    <string name="txthannaha">Hannah is the mother of Jonas and Silja and widow of Michael Kahnwald (originally Mikkel Nielsen). In fact, she has been in love with Ulrich Nielsen since 1986, eventually becoming involved with him in 2019. However, Ulrich ends the relationship after the disappearance of her son Mikkel.
+        After her husbands suicide, Hannah needs money. So she goes to the plant to blackmail Aleksander, as she has his original identity and the gun he hid in Winden in 1986. She also asks him to destroy Ulrich.
+        At the end of the second season, the adult version of Jonas reveals the whole truth to his mother, Hannah (2020). After finding the tunnel that allows time travel, she stops in 1954. Her initial goal is to help Ulrich out of prison, after he was arrested by Egon for assaulting Helge.
+        When she realizes, however, that he is still in love with his wife, she gives up helping him, leaves him in prison and goes on to try a new life in that decade.
+        At that time Hannah appeared in Egon as Katharina Nielsen and they end up having an affair, as a result of this relationship with Silja.
+        In 1911, Adam ends up killing Hannah.</string>
+    <string name="txthannonoaha">Noah is the son of Silja and Bartosz Tiedemann. In the first season, we met this mysterious character with the air of a villain just like a priest who knows about time travel, he is responsible for the disappearance of children and for the deadly experiences made on them.
+        The second season, however, shows that Noah started working at a very young age for Adam, back in 1921, when he is influenced to follow the Sic Mundus by the older Noah himself. He works on the construction of the temporal cleft in the cave with his father Bartosz, and ends up keeping it under the influence of Adam. It is also in this second year that he reveals Charlotte to be his real father. What he had no idea was that his former love and Charlottes mother was Charlottes own daughter.
+        In the final episode of the season, Noah finds the last pages of Adams mysterious notebook, which apparently revealed that the end of the plan was the apocalypse. He sees the only solution to kill Adam. when Noah confronts him, Adam only shows a picture of Elisabeth, which makes Noah stop when he realizes who it was. At this point, he is killed by Agnes, his own sister, under the influence of Adam.</string>
+    <string name="txtheinricha">Heinrich Tannhaus is the father of Gustav, husband of Charlotte Tannhaus and the founder of Sic Mundus Creatus Est.
+        Sometime after 1813, when Charlotte died, Heinrich Tannhaus was overwhelmed with sadness. Eventually, he became obsessed with bringing her back. In addition, Heinrich established Sic Mundus Creatus Est, a secret society to overcome the laws of time and space and create a paradise on earth. Despite all his lifes work, Heinrich failed to resurrect his wife, Charlotte.
+        Heinrich passed on five things, from him and his wife Charlotte, to his son Gustav. The dedication of his life to Sic Mundus, which Gustav also learned. Its triquetra ring and cane Sic Mundus. His love for the play Ariadne and the pocket watch he originally made for her with the family crest engraved on the outside and "For Charlotte" engraved on the inside cover.</string>
+    <string name="txthelenea">Helene Albers and wife of Hermann Albers to Katharina Nielsen. She is a very strict mother.
+        Helene became pregnant when she was just 12 and had an abortion. Hannah Kahnwald - who introduces herself as Katharina Nielsen - already knows him in the waiting room of a clinic. Their conversation changes Hannahs opinion about having an abortion. Upon leaving the clinic, Hannah gives Helene a small present: the Saint Christopher pendant.
+        In 1987, Helene is working at Windens mental hospital and raising her teenage daughter. One day, an adult Katharina appears at the hospital asking to visit a patient - Ulrich - who has been there for 30 years.
+        While Helene walks home after the service, she is attacked by the woman who faithfully came to the clinic earlier, Katharina. Helene is defending herself and ends up killing her attacker with a stone and throws her body into the lake, dropping her Saint Christopher pendant.</string>
+    <string name="txthelgea">Helge is the son of the powerful Bernd and Greta Doppler, who ran the nuclear plant. After being left with the left side of his face deformed by being attacked by Ulrich, who had traveled to 1953, Helge temporarily disappeared for staying with Noah helping him with his experiments.
+        In 1986, Helge was manipulated by Noah, who convinced him to kidnap children for use in experiments. In 2019, Helge (elderly) traveled back to 1986 in an attempt to prevent his younger version from fulfilling Noahs plans. Helge (elderly) ends up dying there, in the car accident that he caused in the attempt to kill Helge (adult).
+        Helge is Peters father.</string>
+    <string name="txthermanna">Hermann Albers is the husband of Helene Albers and the father of Katharina Nielsen.
+        He found 33 of his sheep dead on the morning of November, 5th 1986, when he went to feed them. Egon Tiedemann, who comes to investigate, asks if it could be wolves or poison but Hermann does not think so: there were no bite marks and they were fine the previous day.
+        Hermann says that things like the missing boy and now the killing of the sheep never used to happen in Winden. He then quotes a Bible verse (Mark, 13:33) about signs of the end times. Egon replies telling Hermann he did not know he was a churchgoer. Hermann says the parish has a new priest, a good man.</string>
+    <string name="txtinesa">Ines is the adopted mother of Michael Kahnwald (originally Mikkel Nielsen). She was working as a nurse at Winden Hospital in 1986 when she met the boy and decided to adopt him.
+        Ines always believed in the story told by Michael that he had traveled in time. This is confirmed by the letter he wrote before his suicide and which she delivered to Jonas, her grandson.</string>
+    <string name="txtjanaa">Jana is Ulrich and Mads mother. Like Katharina, she seems to suffer most of the time due to the disappearance of her youngest son.
+        When her Mads disappeared in 1986, Jana had seen Noah fighting with Helge near her home. In 2019, Jana tells Ulrich that she saw Helge looking the same again in the vicinity of her home.</string>
+    <string name="txtjonasadam">Jonas is the son of Hannah and Michael Kahnwald. In the disappearance of Mikkel Nielsen, he is both in his present figure, who must be responsible for the boy, and in his future (but still young) figure who takes Mikkel to 1986. During the events of the series, Jonas dated Martha Nielsen, Mikkels sister. Upon discovering the truth of his fathers sober identity, he ended the relationship by realizing that Martha was his aunt.
+        The adult version of Jonas from the future appears to try to destroy the wormhole that allows time travel. However, this is what is going to cause all temporal events to start. At the end of the first season of the series, the 2019 Jonas travels back in time, falling into a post-apocalyptic version of the future. The year is 2053, and the world of faith devastated by a nuclear explosion that happened on June 27, 2020.
+        In the second season, he desperately tries to prevent the nuclear accident, but ends up in 1921, a period of time when he meets a deformed-faced man who identifies himself as Adam. Adam is behind the time travel organization Sic Mundus, which is responsible for starting this entire cycle of time travel and which aims to create a chain reaction that will cause the explosion of the Winden nuclear power plant.
+        When Jonas goes to 2053, he ends up being hanged at the behest of Elisabeth, because he and Silja entered the rubble of the nuclear plant and saw the "Particle of God", which ends up leaving a scar on his neck.
+        But towards the end of the season, Adam reveals himself to be Jonas himself but older and explains that the deformities in his face are due to the time travel he made.
+        After Adam kills Martha in front of him, Martha from Evas world appears and takes Jonas into his world.</string>
+    <string name="txtkatharinaa">Katharina is the wife of Ulrich Nielsen and the mother of Magnus, Martha and Mikkel. At present, Katharina is the director of the school in the city where they live.
+        In 1986, Hannah complained to the police that Ulrich had raped Katharina in order to separate the couple. However, Katharina believed that Regina Tiedemann was responsible for the complaint, which led to a bad relationship between the two that lasts until 2019.
+        In 2020, in the second season, the adult version of Jonas, Hannah, Charlotte and her husband Peter come together to reveal to Katharina the truth about Ulrich and Mikkels disappearance. The last episode ends by showing Katharina trying to cross the Sic Mundus portal right at the time of the apocalypse.
+        Katharina knows that Ulrich has an affair with Hannah.
+        Katharina ends up in 1986 and meets her mother, Helene Albers, who worked at the psychiatric clinic and her husband Ulrich, only now an elderly man.
+        She waits for Helene to leave work and go home through the forest, hoping to steal the access card to free Ulrich. Helene defends herself with a stone and accidentally kills her own daughter. She sinks Katharinas body into a nearby lake.</string>
+    <string name="txtmadsa">Mads Nielsen is the youngest son of Jana and Tronte and is Ulrichs brother.
+        In October 1986, Noah and Helge kidnap Mads without leaving a trace.
+        Noah uses Mads to test the prototype time machine and the test fails, causing Mads to die; your body is sent to the future.
+        In September 1987, Mads receives a symbolic burial in Winden and his mother, Jana, looks after the grave even decades after the burial.
+        Mads body appears in the bunker in 2019. Peter Doppler finds him, sees his identity and calls Tronte; when Tronte arrives there, Claudia (elderly) arrives and convinces the two to leave the body in the woods.
+        The police are intrigued to find Mads body in perfect condition after so many years, but with burnt eyes. Ulrich recognizes Mads body only by a scar on his chin.</string>
+    <string name="txtmagnusa">Magnus is the eldest son of Ulrich and Katharina and brother to Martha and Mikkel. He always felt guilty for taking his younger brother, Mikkel, to the cave where he disappeared. After these events, Magnus started dating Franziska Doppler.
+        Together with Franziska, Martha and Elisabeth, he meets Bartosz in the caves. Bartosz is carrying a strange device that he claims is a time machine. To prove this, Bartosz and the group travel to 1987. When they return to 2019, Magnus takes the time machine, which ends up with his mother, Katharina.
+        After Jonas (adult) saved him, Franziska and Bartosz from the apocalypse, Magnus ends up following him, consequently, Adam. In the second season, in the same scene where we see Franziska (adult) working for Adam, in 1921, we see Magnus (adult) at his side.
+        Adam sets an important mission for him and Franziska: getting to know Martha in the world through Eva and convincing her to join them.</string>
+    <string name="txtmarthaa">Martha is the middle daughter of Ulrich and Katharina Nielsen, her brothers are Magnus and Mikkel. The girl and Jonas dated for a while, but he ended the relationship when he discovered that, in fact, Martha was his aunt. However, he never explained to her why he was away.
+        Before to the series events, Martha had dated Bartosz Tiedemann, while Jonas would be receiving hospital treatment following his fathers (Mikkel Nielsen / Michael Kahnwald) suicide in June 2019.
+        During the first two seasons, she remains extremely shaken by everything, having, at this point, lost her younger brother and father, both imprisoned in other periods of time.
+        At the end of the second season, Martha is killed by Adam, who explains to Jonas that this was necessary.</string>
+    <string name="txtmikkelmichaela">Mikkel is the son of Ulrich and Katharina Nielsen and brother to Martha and Magnus Nielsen. Martha, Magnus, Bartosz and Jonas take him along for the walk in the forest and a Jonas from the near future ends up taking him to the cave where he disappears in November 2019.
+        The boy gets lost and travels back in time to 1986, where he is treated at the hospital by Ines Kahnwald. Eventually he meets and marries Hannah and together they have a son: Jonas.
+        In 2019, Michael commits suicide and leaves a letter to Jonas explaining everything. However, Jonas ends up receiving the message before his grandmother delivers it, since his adult version passes it on to him. After several time travels that took Jonas to 1986, 2053 and 1921, the young man returns to 2019 to try to prevent his fathers suicide and the beginning of the apocalypse of the last cycle. However, it is he who ends up provoking Michaels decision to kill himself.</string>
+    <string name="txtpetera">Peter is a therapist married to Charlotte, father of Franziska and Elisabeth and son of Helge.
+        Peter grew up outside Winden with his mother. Just before she dies, he talks about his father, Helge. Peter travels to Winden in 1987 and meets Charlotte.
+        The couple only live in the same house, as the relationship ended after Charlotte discovered that Peter had relationships with a transsexual call girl, Bernadette.
+        One day, Peter is reluctant to meet Bernadette and ends up in the family bunker. Suddenly, a crack opens and Mads body falls right in front of him. He warns Tronte, who runs to the scene. Shortly after, Claudia (elderly) appears and explains the whole story to them.
+        Based on the information Noah gave to Charlotte, Peter knows he has to be in the bunker on June 27, 2020 to survive the apocalypse. He arrives on time with Elisabeth, but does not find Franziska or Charlotte.
+        After the apocalypse, Elisabeth and Peter are living in the trailer Bernadette used to work on. They look for Charlotte and Franziska, but never find them.
+        After a fight with her father, Elisabeth returns to the trailer alone. When Peter arrives, he finds a thief who has tied up his daughter and is trying to rape her. Peter ends up being stabbed and dies.</string>
+    <string name="txtreginaa">Regina is the daughter of Claudia, Aleksanders wife and mother of Bartosz. She does not have much relevance within the series, but she participates in specific episodes: she was the last person to see Mads Nielsen before her disappearance, in 1986. At the same time, she was a victim of bullying by Katharina and Ulrich.
+        In 2019, Regina owns the city hotel and is facing breast cancer. She is one of the first people to see Jonas from the future, but she does not know who he is, and she keeps the strange mans information for a year. Adult Claudia saves Regina, who is already very debilitated by cancer, from the apocalypse by taking her to a safe place, but Tronte Nielsen ends up killing her, at the behest of Claudia (elderly).</string>
+    <string name="txtsebastiana">Sebastian Krüger is Hannah Kahnwalds father. In 1986 he is proprietor of a linen service - TextilReinigung -, and is commonly seen driving around town in his green van making pickups and deliveries with Hannah.
+        On one of these occasions, they stop at the hospital. Hannah sees Mikkel Nielsen sitting outside on a bench, and joins him. He shows her a sleight-of-hand trick, and they make friends.
+        Later the same day, they stop at the high school. Hearing Katharinas voice, she peers through a window to see Katharina having sex with Ulrich Nielsen, her crush. She convincingly lies to her father that she saw Ulrich raping Katharina. Sebastian then takes her to the Winden police where she gives the same testimony to Egon Tiedemann, resulting in Ulrichs arrest.
+        On another occasion, Sebastian and Hannah drive by the bus stop and see the teenage Jonas Kahnwald waiting there in a driving rain. Unbeknownst to them, however, he has just emerged from the Winden caves for the first time from 2019, and is bewildered by the missing persons flyers for Mads Nielsen posted on the bus shelter. Hannah urges him to get in, saying the rain may still contain toxins from the Chernobyl disaster six months earlier. When Sebastian tells Hannah by name to make space for him, however, Jonas Kahnwald realizes he is speaking to younger versions of his mother and grandfather.</string>
+    <string name="txtsiljaa">Silja is Egon and Hannahs daughter, thus, half-sister to Jonas. She is presented as a sign interpreter for Elisabeth in 2052.
+        In the third season, we see that Hannah got pregnant with Egon Tiedemann, and gave up on aborting the child, who would be little Siljia. Without support, Hannah decides to travel back in time again, for a period not specified in the series. However, Martha/Eva appears at Hannahs door and reveals where she can find Jonas.
+        Hannah then travels with Silja until 1911, only to find a Jonas already becoming Adam. Like Eva, Adam believed that he needed to "put all the pieces in place" for the cycle to repeat itself and he could become the Adam of the future, someone with knowledge of the origin of the cycle, to put an end to it all.
+        To do so, Adam kills Hannah and sends Silja to 2052. But the future would be Siljas "right place" only to a certain extent. Almost an adult, she travels back to 1890, where she ends up meeting Bartosz Tiedemann, imprisoned for this period of time since 1888.
+        The two stay together. In 1904, the couples first child is born: Hanno Tauber, Noah. In 1910, Silja died after giving birth to the second baby with Bartosz, Agnes.</string>
+    <string name="txttorbena">Torben Wöller is Bernadettes brother and police officer from Winden.
+        In 2019, he wears a bandage wrapped around his head that covers his right eye, with visible sores on his nose and face. In 2020, he is wearing a right eye patch covering his deformed eye. The incident that caused injuries to his eye is unknown. Detective Clausen asks him the cause, but he is reluctant to answer and ends up not sharing.
+        Charlotte puts Torben to work on various tasks, such as: coordinating the search for Mikkel Nielsen; find the place where the red soil is; matching tire tracks found on the road near where Erik Obendorf disappeared; obtaining a search warrant to search the Winden nuclear plant; check that the cave system passes under the forest road/trail through the Dopplers shack.
+        Aleksander still orders him to search for all possible information about Ulrich.
+        Torben ends up dying in the apocalypse.</string>
+    <string name="txttrontea">Tronte is the son of Agnes and Unknown/Infinite and is married to Jana, with whom he has two children, Mads and Ulrich. In 1953, Tronte is a boy who moves to the city of Winden with his mother Agnes and who appears to have suffered some form of physical abuse. In 1954, while Agnes is still missing, Tronte finds Unknown/Infinite in the forest, he tells Tronte that he knows him because he knew Trontes mother and he who chose his name; he gives a bracelet to Tronte in the shape of a snake and claims to be from his mother, Agnes.
+        In 1986, however, he has an extramarital relationship with Claudia Tiedmann. When his sons body appears through a temporal gap, Peter Doppler gives him the idea of ​​placing the body in the forest, where he will later be found by Ulrich and Charlotte Doppler.</string>
+    <string name="txtulricha">Ulrich is the eldest son of Jana and Tronte Nielsen, husband of Katharina and father of Magnus, Martha and Mikkel. In 2019, he is working for the police along with Charlotte Doppler and, before the disappearance of his son Mikkel, Ulrich was involved in a romance with Hannah Kahnwald.
+        Her brother Mads had also disappeared in the same way as Mikkel, but in 1986. During searches for the missing boy in 2019, Mads is eventually found. However, an examination reveals that the boy was recently dead.
+        Haunted by the similarities between the cases, Ulrich does not stop until he finds the passage in the cave that takes him to another period of time. Not knowing which path Mikkel may have taken and where each of the two tunnels leads to, he ends up in 1953, rather than in 1986, where his son was.
+        In 1953, he tries to kill a Helge as a child, believing that he is solely responsible for the disappearance of Mikkel and Mads. However, he fails to kill the boy and ends up arrested by a young Egon, who worked in the police. 33 years later, in 1986, Ulrich discovers that this is the year Mikkel ended up. He manages to escape from the institution where he was hospitalized and has a brief reunion with his son, with an escape that ends up being interrupted by the police.
+        In 1986 he has a brief reunion with a 2020 Katharina.</string>
+
+    <string name="tvbartoszb">Bartosz Tiedemann</string>
+    <string name="tvbenjaminb">Benjamin Wöller</string>
+    <string name="tvborisaleksanderb">Boris Niewald/Aleksander Köhler - Tiedemann</string>
+    <string name="tvcharlotteb">Charlotte Doppler</string>
+    <string name="tvclaudiab">Claudia Tiedemann</string>
+    <string name="tvegonb">Egon Tiedemann</string>
+    <string name="tvelisabethb">Elisabeth Doppler</string>
+    <string name="tvrfranziskab">Franziska Doppler</string>
+    <string name="tvhannahb">Hannah Nielsen</string>
+    <string name="tvhannonoahb">Hanno Tauber/Noah</string>
+    <string name="tvhelgeb">Helge Doppler</string>
+    <string name="tvkatharinab">Katharina Nielsen</string>
+    <string name="tvmadsb">Mads Nielsen</string>
+    <string name="tvmagnusb">Magnus Nielsen</string>
+    <string name="tvmarthaeva">Martha Nielsen/Eva</string>
+    <string name="tvmikkelb">Mikkel Nielsen</string>
+    <string name="tvpeterb">Peter Doppler</string>
+    <string name="tvreginab">Regina Tiedemann</string>
+    <string name="tvtorbenb">Torben Wöller</string>
+    <string name="tvulrichb">Ulrich Nielsen</string>
+    <string name="txtbartoszb">Bartosz is a teenager of a tranquil nature. He is the son of Regina, who died of cancer, and Aleksander Tiedemann, director of the nuclear plant.
+        On the night of 4 November he is in the forest with Martha, Kilian, Magnus and Franziska. Something ends up happening near the caves and they run to the bunker and there a body suddenly appears: Mads Nielsen.
+        Martha visits Bartosz and warns him about the explosion at the plant. They try to meet Aleksander. On the way they are stopped by Magnus and Franziska (adults) from Adams world, who convince Martha to go with them, leaving Bartosz behind.
+        Bartosz joins the Erit Lux society and travels on Evas orders to Adams world. Shortly before the apocalypse he goes to the Kahnwald home, where he meets Martha who is traveling to Adam.
+        Bartosz prevents Martha from bringing Jonas into his world, saying that Adam lied to her and wants to kill her. Martha and Bartosz travel together to the Erit Lux headquarters.
+        Bartosz remains loyal to Eva and Erit Lux in adulthood. Following Evas instructions, he saves his younger self from the apocalypse.</string>
+    <string name="txtbenjaminb">Benjmanin Wöller is the brother of Torben Wöller.
+        He is a man who hides being homosexual and has a secret affair with Peter Doppler.</string>
+    <string name="txtborisaleksanderb">Aleksander Tiedemann is a widower of Regina and father of Bartosz, is director of the nuclear plant.
+        His real name is Boris Niewald. He flees to Winden in 1986 after killing a man in Marburg and starts a new life as Aleksander.
+        In 2019 his wife Regina dies of cancer.
+        Aleksander keeps several barrels of nuclear waste without secrecy.
+        Hannah Nielsen blackmails Aleksander with his original identity and the weapon he hid in Winden 33 years ago, demanding that he end Charlottes life. Aleksander admits to his son Bartosz that the murder he committed 33 years ago was an accident.
+        Aleksander ends up showing Charlotte the barrels of nuclear waste that were covered up in 1986. He ends up opening a barrel, which causes the explosion in Winden and the start of the apocalypse.
+        Aleksander ends up dying at the event.</string>
+    <string name="txtcharlotteb">Charlotte is married to Peter Doppler and the mother of Franziska and Elisabeth. Shes a cop in Winden.
+        Charlotte has an affair with her boss Ulrich Nielsen. Ulrichs wife, Hannah, finds out and blackmails Aleksander to end her life.
+        She is investigating the bunker that appeared in Mads body and finds a penny that is identical to the one her father-in-law, Helge, carries with her.
+        Aleksander calls her saying he wants to show something. He takes her to the room where the barrels with nuclear waste are and ends up opening them, causing the explosion that destroys Winden and starts the apocalypse.</string>
+    <string name="txtclaudiab">Claudia is the daughter of Egon Tiedemann and the mother of Regina Tiedemann. She is a former director of the nuclear power plant and now follows Eva and the secret society Erit Lux.
+        Claudia uses the golden sphere to travel to Adams world. There she ends up meeting her other version, in 2020, and convinces her to join Erit Lux to fight Adam.
+        Eva entrusts Claudia to keep an eye on Adams world and Claudia has been in contact with her other version for 20 years.
+        When they meet in 2040, Claudia from Adams world ends up killing Claudia from Evas world and takes her place in secret. Eva does not notice the exchange.</string>
+    <string name="txtegonb">Egon is the father of Claudia Tiedemann.
+        He is a follower of Eva and the Erit Lux society.
+        Just before the apocalypse, Egon finds Hannah Nielsen and saves her on behalf of Erit Lux.</string>
+    <string name="txtelisabethb">Elisabeth is the youngest daughter of Charlotte and Peter Doppler and sister of Franziska. She is Charlottes mother along with Noah.
+        On the day of the apocalypse, she meets an adult Noah in the forest. Eva sent him to take Elisabeth to a safe place in the bunker.
+        A younger Noah is there waiting for her.</string>
+    <string name="txtfranziskab">Franziska is the oldest daughter of Peter and Charlotte Doppler. She is deaf.
+        On the night of 4 November she is in the forest with her boyfriend Magnus, Martha, Kilian and Bartosz. Something ends up happening near the caves and they run to the bunker and there a body suddenly appears: Mads Nielsen.
+        A few days later, she meets Magnus near the lake and Magnus tells her that Martha has been saying things about an impending apocalypse. Soon after they witness a dark shape forming over the plant and both are killed in the explosion.</string>
+    <string name="txthannahb">Hannah is Ulrich Nielsens second wife. She is pregnant with him.
+        Hannah begins to suspect that Ulrich is cheating on her after she finds a blond hair in her outfit, she thinks he is screening her with Katharina. She later learns that it is with Charlotte Doppler.
+        When Hannah was a teenager she witnessed Aleksander Tiedemann burying a bag with a gun and his real identity - Boris Niewald. Thirty-three years later Hannah is using these things to blackmail Aleksander. She wants him to use his power as director of the nuclear plant to destroy Charlotte Doppler.
+        On the day of the apocalypse, Hannah suffers a miscarriage. Minutes before the explosion takes place, old Egon Tiedemann rescues her on behalf of Erit Lux.</string>
+    <string name="txthannonoahb">Noah is the father of Charlotte Doppler along with Elisabeth Doppler. He is a member of Evas society, Erit Lux.
+        Noah (adult) travels in time for the day of the apocalypse at Evas behest and rescues Elisabeth and takes her to the bunker safely.
+        As a teenager, he survives the apocalypse in the bunker. There he meets Elisbeth, who later will have his daughter.</string>
+    <string name="txthelgeb">Helge is the father of Petter Doppler. Already old, he is living with his son.
+        In 1986, Ulrich of 2019 travels there and tries to kill him with a stone (to prevent the death of his brother Mads), leaving his left eye badly injured.
+        In 2019 Mads body appears in the bunker. Helge confesses to having killed the boy. His daughter-in-law, Charlotte, finds a penny in the bunker that is identical to what Helge carries with him.
+        Helge is arrested and interrogated by Ulrich, but ends up not understanding anything he talks about and ends up releasing him. Helge then goes to the caves to travel through time.
+        He goes to 1986 and kills Ulrich right after he has multiplied his eye. Soon after Claudia Tiedemann (adult) arrives.</string>
+    <string name="txtkatharinab">Katharina is the daughter of Helene and Hermann Albers, mother of Magnus, Martha and Mikkel and ex wife of Ulrich Nielsen.
+        She is the principal of the Winden school. On the day of the apocalypse, Katharina is alone at home with Mikkel.
+        The two end up dying embraced.</string>
+    <string name="txtmadsb">Mads is the youngest son of Jana and Tronte Nielsen and is the younger brother of Ulrich Nilsen.
+        In 1986, Mads disappears without a trace. The police never found traces of his disappearance.
+        Mads body appears in the bunker in front of Magnus, Franzsika, Martha, Kilian and Bartosz. The body and body is dressed in clothes from the 80s and has an identity with the name Mads Nielsen.
+        Old Helge confesses to having murdered the boy. During the autopsy Ulrich recognizes the body by a scar on his chin. He does not understand why the day of the murder appears to be a few days.</string>
+    <string name="txtmagnusb">Magnus is the eldest son of Katharina and Ulrich Nielsen and brother of Martha and Mikkel.
+        On the night of 4 November he is in the forest with his girlfriend Franziska, Martha, Kilian and Bartosz. Something ends up happening near the caves and they run to the bunker and there a body suddenly appears: Mads Nielsen.
+        Magnus always thought his sister Martha was a little crazy. She disappeared for several days and came back telling Magnus that the apocalypse was imminent. A few days later, he meets Franziska by the lake and tells her that Martha has been saying things about an impending apocalypse. Soon after they witness a dark shape forming over the plant and both are killed in the explosion.</string>
+    <string name="txtmarthaeva">Martha is the middle daughter of Ulrich and Katharina Nielsen and sister to Magnus and Mikkel. She dates Kilian Obendorf. Martha is the mother of Unknown/Infinite along with Jonas.
+        On the night of November 4, Martha meets a boy who acts as if he knows her - Jonas Kahnwald - she is in the forest with her boyfriend Kilian, Franziska, Magnus and Bartosz. Something ends up happening near the caves and they run to the bunker and there a body suddenly appears: Mads Nielsen.
+        Ulrich ends up thinking that drugs were involved in the bunker incident and blames Kilian. Martha tells him and they end up breaking up.
+        Jonas ends up taking Martha to 2052, where Winden became a desert. Martha (adult) warns her younger version that the apocalypse is two days away from her present time. When Jonas and Martha return to their time, they end up sleeping together.
+        Martha ends up going to Adams world, where a Jonas who does not know about his existence is holding Marthas body from his world in his arms and ends up taking him to Evas world.
+        Adam explains to Martha that she is pregnant with Jonas and her son is the origin of the entire family of time travelers, since he is the fruit of both worlds. Adam wants to destroy the origin, and ends up trying to kill Martha.
+        When Martha and Bartosz travel to the Erit Lux headquarters in 2052, Eva is waiting for them. Martha is angry with herself for letting Jonas die, but Eva guarantees that one day she will understand.
+        Eva then cuts Marthas face deeply, leaving a scar that will mark her for the rest of her life.
+        At 80, Martha is called Eva and is the leader of the Erit Lux society, which tries to control time travel, but unlike Adam she does not want to destroy the knot, but rather to keep it.</string>
+    <string name="txtmikkelb">Mikkel is the youngest son of Ulrich and Katharina Nielsen and the younger brother of Magnus and Martha.
+        On the night of November 4, Mikkels parents are at a school meeting. Mikkels older brothers are in the forest on the way to the caves with their friends and end up leaving him alone at home.
+        Jonas secretly visits Mikkel and realizes that - unlike his world - he does not travel back in time in Evas world, which means that he will never become Michael Kahnwald.
+        As the apocalypse explodes in Winden, Mikkel and his mother are together in their room, hugging each other. Both end up dying.</string>
+    <string name="txtpeterb">Peter is married to Charlotte Doppler, is the father of Franziska and Elisabeth and is the son of Helge. He is the pastor of Winden.
+        Peter is gay secretly and has an affair with Benjamin Wöller.</string>
+    <string name="txtreginab">Regina was Aleksander Tiedemanns wife and together they had a son, Bartosz Tiedemann.
+        In 2019, at the age of 48, she ends up dying.</string>
+    <string name="txttorbenb">Torben is Benjamins brother and is a police officer in Winden. Torben does not have an arm.
+        He is present when Ulrich gives a talk at the station on the case of the missing child. Later, Torben accidentally opens the door to the room when Ulrich and Charlotte are kissing.
+        When Mads body is found, Torben is in charge of the investigation.</string>
+    <string name="txtulrichb">Ulrich is the oldest son of Tronte and Jana Nielsen, brother of Mads Nielsen, ex-husband of Katharina, father of Magnus, Mikkel and Martha and husband of Hannah.
+        Hannah is pregnant with Ulrich at the same time that he cheats on her with Charlotte Doppler.
+        When Mads body appears, he recognizes it by the scar on his chin, but does not understand what the day of death would be like a few days ago.
+        Ulrich ends up arresting Helge (elderly) when he confesses that he killed Mads, but ends up releasing him.
+        Ulrich then travels to 1986 and tries to kill Helge (adult) by leaving his left eye multiplied and takes the body to the bunker. In the bunker, Helge (elderly) is waiting for Ulrich who ends up killing him with an iron rod.</string>
+
+    <string name="tvbenjaminbernadetteori">Benjamin/Bernadette Wöller</string>
+    <string name="tvcharlotteori">Charlotte Tannhaus</string>
+    <string name="tvhgori">H. G. Tannhaus</string>
+    <string name="tvhannahori">Hannah Wöller</string>
+    <string name="tvkatharinaori">Katharina Albers</string>
+    <string name="tvmarekiori">Marek Tannhaus</string>
+    <string name="tvpeterori">Peter Doppler</string>
+    <string name="tvreginaori">Regina Doppler</string>
+    <string name="tvsonjaori">Sonja Tannhaus</string>
+    <string name="tvtorbenori">Torben Wöller</string>
+    <string name="txtbenjaminbernadetteori">Bernadette is a trans woman and has a happy, healthy and public relationship with Peter Doppler.</string>
+    <string name="txtcharlotteori">Little Charlotte is the daughter of Marek and Sonja Tannhaus, being H.G. Tannhaus, her grandfather.</string>
+    <string name="txthgori">H. G. is the father of Marek Tannhaus, father-in-law to Sonja Tannhaus and grandfather of little Charlotte Tannhaus. Hes Windens watchmaker.
+        When his son visits him with his daughter-in-law and his granddaughter, a conflict arises between the two and Marek, along with his wife and daughter, leave in a hurry during the rain. On the road their car is pushed off a bridge by a truck and they end up dying.
+        H. G. cannot overcome the pain of his loss. When he is in front of his familys grave, he decides to put his theoretical knowledge into practice and decides to build a time machine to undo the accident.
+        After twelve years H. G. manages to finish the time machine. When he activates it, the parallel worlds of Adam and Eva are created and his own world ceases to exist.
+        H. G. has not found a way to change the past, but Jonas and Martha visit the original world and succeed. They stop Marek on the road before the accident that would have killed them in November 1971, preventing the watchmaker from creating the time machine.</string>
+    <string name="txthannahori">Hannah is married to Torben Wöller and is pregnant with her child.</string>
+    <string name="txtkatharinaori">Katharina lives happily in Winden.
+        In 2019 she meets with her friends: Regina Doppler, Hannah Wöller, Torben Wöller, Bernadette Wöller and Peter Doppler.</string>
+    <string name="txtmarekori">Marek is the son of H. G. Tannhaus, husband of Sonja Tannhaus and father of little Charlotte Tannhaus.
+        Marek has no interest in taking over his fathers watchmaker business.
+        A conflict arises with his father when he, his wife and daughter visit him and end up leaving in a hurry during the rain. Marek runs into two young men and decides to go back and do the same with his father.</string>
+    <string name="txtpeterori">Peter is gay and maintains a happy, healthy and public relationship with Bernadette Wöller.</string>
+    <string name="txtreginaori">Regina is the daughter of Claudia Tiedemanne Bernd Doppler.
+        In 2019 she meets at her home with her friends: Katharina Albers, Hannah Wöller, Torben Wöller, Bernadette Wöller and Peter Doppler.</string>
+    <string name="txtsonjaori">Sonja is married to Marek Tannhaus and together they have a daughter: little Charlotte Tannhaus. Being daughter-in-law to H. G. Tannhaus.</string>
+    <string name="txttorbenori">Torben is the brother of Bernadette Wöller and the husband of Hannah Wöller, and is expecting her child.
+        In 2019, while meeting with his friends - Katharina Albers, Regina Doppler, his wife Hannah Wöller, his brother-in-law Peter Doppler and his sister Bernadette - he was going to tell why his eye was hurt, but the noise of thunder changes the course of the conversation.</string>
+
+    <string-array name="sppersonagensa">
+        <item>See The Characters</item>
+        <item>Agnes Nielsen</item>
+        <item>Bartosz Tiedemann</item>
+        <item>Bernd Doppler</item>
+        <item>Bernadette/Benjamin Wöller</item>
+        <item>Boris Niewald/Aleksander Köhler - Tiedemann</item>
+        <item>Charlotte Doppler</item>
+        <item>Claudia Tiedemann</item>
+        <item>Clausen Köhler</item>
+        <item>Daniel Kahnwald</item>
+        <item>Desconhecido/Infinito</item>
+        <item>Doris Tiedemann</item>
+        <item>Egon Tiedemann</item>
+        <item>Elisabeth Doppler</item>
+        <item>Franziska Doppler</item>
+        <item>Greta Doppler</item>
+        <item>Gustav Tannhaus</item>
+        <item>H. G. Tannhaus</item>
+        <item>Hannah Kahnwald</item>
+        <item>Hanno Tauber/Noah</item>
+        <item>Heinrich Tannhaus</item>
+        <item>Helene Albers</item>
+        <item>Helge Doppler</item>
+        <item>Hermann Albers</item>
+        <item>Ines Kahnwald</item>
+        <item>Jana Nielsen</item>
+        <item>Jonas Kahnwald/Adam</item>
+        <item>Katharina Nielsen</item>
+        <item>Mads Nielsen</item>
+        <item>Magnus Nielsen</item>
+        <item>Martha Nielsen</item>
+        <item>Mikkel Nielsen/Michael Kahnwald</item>
+        <item>Peter Doppler</item>
+        <item>Regina Tiedemann</item>
+        <item>Sebastian Krüger</item>
+        <item>Silja Tiedemann</item>
+        <item>Torben Wöller</item>
+        <item>Tronte Nielsen</item>
+        <item>Ulrich Nielsen</item>
+    </string-array>
+
+    <string-array name="sppersonagensb">
+        <item>See The Characters</item>
+        <item>Bartosz Tiedemann</item>
+        <item>Benjamin Wöller</item>
+        <item>Boris Niewald/Aleksander Köhler - Tiedemann</item>
+        <item>Charlotte Doppler</item>
+        <item>Claudia Tiedemann</item>
+        <item>Desconhecido/Infinito</item>
+        <item>Egon Tiedemann</item>
+        <item>Elisabeth Doppler</item>
+        <item>Franziska Doppler</item>
+        <item>Hannah Nielsen</item>
+        <item>Hanno Tauber/Noah</item>
+        <item>Helge Doppler</item>
+        <item>Katharina Nielsen</item>
+        <item>Mads Nielsen</item>
+        <item>Magnus Nielsen</item>
+        <item>Martha Nielsen/Eva</item>
+        <item>Mikkel Nielsen</item>
+        <item>Peter Doppler</item>
+        <item>Regina Tiedemann</item>
+        <item>Torben Wöller</item>
+        <item>Ulrich Nielsen</item>
+    </string-array>
+
+    <string-array name="sppersonagensori">
+        <item>See The Characters</item>
+        <item>Benjamin/Bernadette Wöller</item>
+        <item>Charlotte Tannhaus</item>
+        <item>H. G. Tannhaus</item>
+        <item>Hannah Wöller</item>
+        <item>Katharina Albers</item>
+        <item>Marek Tannhaus</item>
+        <item>Peter Doppler</item>
+        <item>Regina Doppler</item>
+        <item>Sonja Tannhaus</item>
+        <item>Torben Wöller</item>
+    </string-array>
+</resources>
